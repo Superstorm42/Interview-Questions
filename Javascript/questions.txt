@@ -1,0 +1,2 @@
+1. What is JS Hoisting?
+2. What is JS Closure?

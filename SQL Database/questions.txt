@@ -1,0 +1,6 @@
+Questions
+1. What is ACID properties?
+2. What is DB Normalization?
+3. What is DB DeNormalization?
+4. What is DB View?
+5. Database Store Procedure?
