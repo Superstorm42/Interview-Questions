@@ -1,0 +1,4 @@
+1. What is difference between Element and Component?
+2. What is React Virtual DOM?
+3. When to use React Class based components instead of Functional Components?
+4. Different between JSX and HTML?

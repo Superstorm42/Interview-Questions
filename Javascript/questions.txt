@@ -1,2 +1,3 @@
 1. What is JS Hoisting?
 2. What is JS Closure?
+3. What is iterator and generator?
